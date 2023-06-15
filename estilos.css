@@ -12,9 +12,28 @@ body{
     border: 5px solid rgb(17, 18, 17);
     border-radius: 50%;
     box-shadow: inset 0 0 40px 0 black;
-    color: black;
+    
 }
 .contendio_gen{
     display: flex;
     justify-content: center;
 }
+@media screen and (min-width: 1024px){
+      .tit{
+        font-size: 5rem;
+      }
+}
+.reloj{
+    width: 22rem;
+    height: 22rem;
+}
+/* @media screen and (min-width: 768px){
+      .tit{
+        font-size: 5rem;
+      }
+
+     .reloj{
+    width: 20rem;
+    height: 20rem;
+}
+} */
