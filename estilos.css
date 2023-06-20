@@ -26,6 +26,10 @@ body{
 .reloj{
     width: 22rem;
     height: 22rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 5rem;
 }
 /* @media screen and (min-width: 768px){
       .tit{
